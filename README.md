@@ -6,14 +6,14 @@ Description
 The Food Delivery App provides a seamless experience for customers to order their favorite food items from a menu, complete secure payments via Stripe integration, and track their order status from processing to delivery. For administrators, it offers tools to manage menu items, update order statuses, and ensure smooth operation of the food delivery service.
 ## Features
 #### Customer Side:
-View a list of available food items.
-Select items and place orders.
-Complete payments securely using Stripe integration.
-Track order status (processing, out for delivery, delivered).
+###### View a list of available food items.
+###### Select items and place orders.
+###### Complete payments securely using Stripe integration.
+###### Track order status (processing, out for delivery, delivered).
 #### Admin Side:
-Add new food items to the menu.
-Edit existing items on the menu.
-Manage order statuses (update from processing to out for delivery to delivered).
+###### Add new food items to the menu.
+###### Edit existing items on the menu.
+###### Manage order statuses (update from processing to out for delivery to delivered).
 ## Objectives
 The main objectives of the Food Delivery App are:
 #### Efficient Ordering:
@@ -44,21 +44,21 @@ MongoDB
 Stripe
 ## Usage
 #### Customer Flow:
-Visit the website.
-Browse food items and add desired items to cart.
-Proceed to checkout, enter payment details securely using Stripe.
-Receive order confirmation and track order status updates.
+###### Visit the website.
+###### Browse food items and add desired items to cart.
+###### Proceed to checkout, enter payment details securely using Stripe.
+###### Receive order confirmation and track order status updates.
 #### Admin Flow:
-Log in to the admin panel.
-Add new items to the menu or edit existing items as needed.
-Monitor and manage order statuses from processing to out for delivery to delivered.
+###### Log in to the admin panel.
+###### Add new items to the menu or edit existing items as needed.
+###### Monitor and manage order statuses from processing to out for delivery to delivered.
 ## Contributing
 Contributions are welcome! Please follow GitHub Flow:
-Fork the repository.
-Create a new branch (git checkout -b feature/new-feature).
-Commit your changes (git commit -am 'Add new feature').
-Push to the branch (git push origin feature/new-feature).
-Submit a pull request.
+###### Fork the repository.
+###### Create a new branch (git checkout -b feature/new-feature).
+###### Commit your changes (git commit -am 'Add new feature').
+###### Push to the branch (git push origin feature/new-feature).
+###### Submit a pull request.
 ## Contact
 For any inquiries or feedback, please contact Rediet Birhanu.
 ## Conclusion
