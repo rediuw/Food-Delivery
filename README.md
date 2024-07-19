@@ -16,16 +16,23 @@ Edit existing items on the menu.
 Manage order statuses (update from processing to out for delivery to delivered).
 ## Objectives
 The main objectives of the Food Delivery App are:
-Efficient Ordering: Simplify the process of ordering food online with a user-friendly interface.
-Order Management: Provide tools for admins to manage orders and update their statuses seamlessly.
-Payment Integration: Securely handle online payments using Stripe to ensure customer trust and convenience.
-Scalability: Build a scalable solution that can handle increasing numbers of users and orders.
+#### Efficient Ordering:
+Simplify the process of ordering food online with a user-friendly interface.
+#### Order Management: 
+Provide tools for admins to manage orders and update their statuses seamlessly.
+#### Payment Integration: 
+Securely handle online payments using Stripe to ensure customer trust and convenience.
+#### Scalability: Build a scalable solution that can handle increasing numbers of users and orders.
 ## Scope
 The scope of the Food Delivery App includes:
-Customer Experience: Optimizing the user journey from browsing items to completing orders.
-Admin Functionality: Empowering admins with tools to manage menu items and monitor order statuses effectively.
-Payment Security: Implementing industry-standard security measures for handling sensitive customer payment information.
-Responsive Design: Ensuring the application is accessible and functional across different devices and screen sizes.
+#### Customer Experience:
+Optimizing the user journey from browsing items to completing orders.
+#### Admin Functionality:
+Empowering admins with tools to manage menu items and monitor order statuses effectively.
+#### Payment Security: 
+Implementing industry-standard security measures for handling sensitive customer payment information.
+#### Responsive Design:
+Ensuring the application is accessible and functional across different devices and screen sizes.
 ## Technologies Used
 #### Frontend:
 HTML, CSS, JavaScript, React
